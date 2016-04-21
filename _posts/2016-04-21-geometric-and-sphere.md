@@ -1,23 +1,23 @@
 ---
-authors: []
-dateModified: '2016-04-21T01:10:26.793Z'
-datePublished: '2016-04-21T01:31:38.886Z'
-hasPage: true
 inFeed: true
+hasPage: true
 inNav: false
+inLanguage: null
+starred: false
 keywords: []
+description: ''
+datePublished: '2016-04-21T01:31:56.505Z'
+dateModified: '2016-04-21T01:31:47.728Z'
+title: Geometric and Sphere
+author: []
+sourcePath: _posts/2016-04-21-geometric-and-sphere.md
+published: true
+authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-starred: false
-title: Geometric and Sphere
-description: ''
-author: []
-inLanguage: null
-sourcePath: _posts/2016-04-21-geometric-and-sphere.md
-published: true
 url: geometric-and-sphere/index.html
 _type: Article
 
