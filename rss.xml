@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lyle Baer]]></title>
         <description><![CDATA[Lyle Baer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lyle-baer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 00:58:39 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 01:11:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lyle-baer/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Lyle Baer - Demo Reel 2016]]></title>
+            <description><![CDATA[<article><h1>Lyle Baer - Demo Reel 2016</h1><p>Lyle Baer Visual Effects Demo Reel March 2016</p></article>]]></description>
+            <link>https://vimeo.com/159161659</link>
+            <guid isPermaLink="false">32cfccf9-b766-4ca4-bb17-68385b1bff13</guid>
+            <pubDate>Thu, 21 Apr 2016 01:10:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Geometric and Sphere]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc56ab37-3ac9-4602-876e-f252094c839f.jpg">]]></description>
-            <link>undefinedgeometric-and-sphere/index.html</link>
+            <link>https://thegrid.ai/lyle-baer/geometric-and-sphere/index.html</link>
             <guid isPermaLink="false">4e38ab99-ba1c-4825-aa21-5337b087d5a7</guid>
             <pubDate>Thu, 21 Apr 2016 00:58:35 GMT</pubDate>
         </item>
