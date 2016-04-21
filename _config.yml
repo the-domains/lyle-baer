@@ -1,0 +1,28 @@
+name: Lyle Baer
+favicon: null
+layout_spectrum: 0.4661099361255765
+typography_spectrum: 0.7746781057212502
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.49074662919156253
+  lightness: 0.21774022979661822
+  saturation: 0.7647504522465169
+  rhythmicContrast: 0.32192736328579485
+purpose: []
