@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Computer graphics give me a perfection that is not achievable in the real world. With the vastly infinite possibilities of 3D Shapes on X, Y, Z, coordinate planes, this has left me with the massive task of calling a piece of artwork done. While friends and teachers alike seemed transfixed with my singular creations, it was hard to push myself to get better when there was no other competition. But I did what I always do when creating my art: let my surroundings inspire me. On a recent trip to Iceland I saw the most amazing, gigantic glaciers reflecting the thin layers of dirt. These glaciers were a sort of primitive perfection with their rocks and dirt scattered throughout and in between layers of crystal ice. I recently made an image in a computer program called Cinema 4D that is a structure in a sea of disks. Each of the disks is overlapped and continues into the background where there is a sun, rising or setting. I call it ‘Reflections’ because every surface is reflective like the reflection of perfection from the glaciers, but in this case, it means that every object appears more than once. I know that each reflection is correct because the software is mathematically accurate. Throughout this year, I have grown from simplistic shapes to vast skyscrapers, with the contrast showing me and the people around me that I can create other worlds.'
-datePublished: '2016-04-21T01:19:09.569Z'
-dateModified: '2016-04-21T01:18:04.190Z'
+datePublished: '2016-04-21T01:29:24.127Z'
+dateModified: '2016-04-21T01:19:18.576Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-21-computer-graphics-give-me-a-perfection-that-is-not-achievabl.md
