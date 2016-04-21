@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Award-winning multi-media artist, Lyle Lakota Baer has published poetry in a Young Authors’ Anthology and won a digital art scholastic award in the Scholastic Art and Writing competition. His Adobe certifications include Photoshop and Illustrator. His commendation extends to an award in of American Archer at Geneva Glen in Denver, CO. Currently he pursues a BFA in Visual Effects minoring in Game Design at SCAD, aiming to work in film and game Design.'
-datePublished: '2016-04-21T01:17:08.229Z'
-dateModified: '2016-04-21T01:16:58.423Z'
+datePublished: '2016-04-21T01:18:38.820Z'
+dateModified: '2016-04-21T01:17:16.969Z'
 author: []
 title: ''
+sourcePath: _posts/2016-04-21-award-winning-multi-media-artist-lyle-lakota-baer-has-publi.md
+published: true
 authors: []
 publisher:
   name: lylebaer.com
   domain: lylebaer.com
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-award-winning-multi-media-artist-lyle-lakota-baer-has-publi.md
-published: true
 _context: 'http://schema.org'
 _type: Article
 
