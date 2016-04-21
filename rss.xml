@@ -4,7 +4,7 @@
         <description><![CDATA[Lyle Baer]]></description>
         <link>https://thegrid.ai/lyle-baer/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Apr 2016 01:29:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2016 01:31:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lyle-baer/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Lyle Baer - Demo Reel 2016]]></title>
@@ -12,6 +12,13 @@
             <link>https://vimeo.com/159161659</link>
             <guid isPermaLink="false">32cfccf9-b766-4ca4-bb17-68385b1bff13</guid>
             <pubDate>Thu, 21 Apr 2016 01:10:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Geometric and Sphere]]></title>
+            <description><![CDATA[<article><h1>Geometric and Sphere</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cc56ab37-3ac9-4602-876e-f252094c839f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/lyle-baer/geometric-and-sphere/index.html</link>
+            <guid isPermaLink="false">4e38ab99-ba1c-4825-aa21-5337b087d5a7</guid>
+            <pubDate>Thu, 21 Apr 2016 01:31:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://drscdn.500px.org/photo/80782555/m%3D900/6e99074eb9bbc989de17dad8b713fb38">]]></description>
             <link>https://thegrid.ai/lyle-baer/b1e80b82-b68f-4ed5-8704-fbd50687374c/index.html</link>
             <guid isPermaLink="false">b1e80b82-b68f-4ed5-8704-fbd50687374c</guid>
-            <pubDate>Thu, 21 Apr 2016 01:28:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://drscdn.500px.org/photo/80782551/m%3D900/7291fd080fc7c9f3ee510bf82580d420">]]></description>
-            <link>https://thegrid.ai/lyle-baer/61a4ac11-6a81-4e76-b633-9551b5cc9984/index.html</link>
-            <guid isPermaLink="false">61a4ac11-6a81-4e76-b633-9551b5cc9984</guid>
             <pubDate>Thu, 21 Apr 2016 01:28:09 GMT</pubDate>
         </item>
     </channel>
